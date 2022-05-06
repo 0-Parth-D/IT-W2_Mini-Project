@@ -1,1 +1,2 @@
 Project to implement concepts of data analysis on a dataset in python using Jupyter Notebook.
+Use of matplotlib to pictorially represent the data form the dataset, using pandas to perform different functions, using seaborn to perform tasks like heatmap.
